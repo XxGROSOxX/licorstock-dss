@@ -51,6 +51,43 @@ El proyecto se organiza en GitHub Projects con las siguientes columnas:
 - In Progress
 - In review
 - Done
+# LicorStock DSS
+
+Sistema de Apoyo a la Toma de Decisiones para el control de inventario crítico en una licorería.
+
+## Objetivo del proyecto
+
+Desarrollar un sistema DSS que permita registrar productos, controlar entradas y salidas de inventario, visualizar productos críticos y apoyar la toma de decisiones para evitar quiebres de stock.
+
+## Estructura del proyecto
+
+- backend/: lógica del servidor y conexión con la base de datos.
+- frontend/: interfaz de usuario del sistema.
+- database/: scripts SQL del esquema físico.
+- docs/: documentación técnica y acuerdos del Squad.
+
+## Definition of Ready - DoR
+
+Una tarea está lista para iniciar cuando:
+
+1. Tiene una descripción clara.
+2. Tiene criterios de aceptación definidos.
+3. Tiene prioridad asignada.
+4. Tiene estimación.
+5. No tiene bloqueos.
+6. Está ubicada en Ready (DoR).
+
+## Definition of Done - DoD
+
+Una tarea está terminada cuando:
+
+1. El código fue implementado.
+2. No presenta errores.
+3. Fue probado localmente.
+4. La documentación fue actualizada.
+5. Fue revisado mediante Pull Request.
+6. Cumple con el requisito de negocio.
+7. Está en Done (DoD).
 
 ## Squad
 
